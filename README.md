@@ -11,3 +11,5 @@ newsletter.html redirects to the Google drive link to the Newsletter (drive.goog
 homecoming2021.html redirects to the Google drive link to the Newsletter (drive.google.com)
 <br>
 instagram.html redirects to the Senate's Instagram page (instagram.com)
+<br>
+repo.html redirects to the Github repository (github.com)

@@ -13,3 +13,5 @@ homecoming2021.html redirects to the Google drive link to the Newsletter (drive.
 instagram.html redirects to the Senate's Instagram page (instagram.com)
 <br>
 repo.html redirects to the Github repository (github.com)
+<br>
+dashboard.html redirects to the internal dashboard (onusenate.org)

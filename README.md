@@ -1,7 +1,7 @@
 # onusenate.org
 ONU Student Senate Website Redirection 
 <br>
-For any questions or concerns, please contact the Secretary of Technology Advancement, Alex Duke at a-duke@onu.edu.
+For any questions or concerns, please contact the Secretary of Technology Advancement, Josh Stock at j-stock.1@onu.edu.
 
 # Web Map
 index.html redirects to the internal-facing webpage (my.onu.edu)
